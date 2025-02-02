@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome to my GitHub profile! I'm a passionate Frontend Developer & UI/UX Enthusiast 🚀. Constantly learning and exploring JavaScript, DSA, UX Design, and more.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 💡 About Me: - 🎨 Learning UI/UX Design & Frontend Development - 👨‍💻 Proficient in HTML, CSS, JavaScript, Python, DSA - 🔥 Exploring Freelancing Opportunities - 📚 Working on Soft Skills & Interview Readiness - 🎭 Core Team Member for Indic Summer School - ✨ Interested in Tech, Design, and Creativity
 
 * 🌍  I'm based in India
